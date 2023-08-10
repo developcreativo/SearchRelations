@@ -1,0 +1,28 @@
+{
+    "name": "developcreativo/search",
+    "description": "Buscar relaciones de Faceit, Laravel Nova",
+    "keywords": [
+        "laravel", "nova", "relaciones", "faceit", "search"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "authors": [
+        {
+            "name": "Kelly Salazar",
+            "email": "developmentcreativo@gmail.com",
+            "homepage": "https://github.com/developcreativo"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Developcreativo\\Search\\": "src/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
