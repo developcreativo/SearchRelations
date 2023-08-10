@@ -4,10 +4,10 @@
  * @author Kelly Salazar <developmentcreativo@gmail.com>
  */
 
-namespace App\Search;
+namespace Developcreativo\Search;
 
 use Illuminate\Database\Eloquent\Builder;
-use App\Search\Contracts\Search;
+use Developcreativo\Search\Contracts\Search;
 use Illuminate\Database\Eloquent\RelationNotFoundException;
 class RelationSearch implements Search
 {
