@@ -4,7 +4,7 @@
  * @author Kelly Salazar <developmentcreativo@gmail.com>
  */
 
-namespace App\Search\Contracts;
+namespace Developcreativo\Search\Contracts;
 
 use Illuminate\Database\Eloquent\Builder;
 interface Search
