@@ -9,6 +9,7 @@ namespace Developcreativo\Search;
 use Illuminate\Database\Eloquent\Builder;
 use Developcreativo\Search\Contracts\Search;
 use Illuminate\Database\Eloquent\RelationNotFoundException;
+
 class RelationSearch implements Search
 {
     /**
